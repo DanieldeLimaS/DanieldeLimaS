@@ -1,4 +1,4 @@
-## <div align="center">Oi eu sou o Daniel Lima, Desenvolvedor .NET👋</div>
+## <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2351F77F&size=43&width=800&height=100&lines=Ol%C3%A1%2C+sou+desenvolvedor+.NET%F0%9F%91%8B)](https://git.io/typing-svg)</div>
 <div align="center">
   <a href="https://github.com/DanieldeLimaS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danieldelimas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
