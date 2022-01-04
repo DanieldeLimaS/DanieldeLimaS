@@ -1,8 +1,8 @@
 ## <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2351F77F&size=43&width=800&height=100&lines=Ol%C3%A1%2C+sou+desenvolvedor+.NET%F0%9F%91%8B)](https://git.io/typing-svg)</div>
 <div align="center">
   <a href="https://github.com/DanieldeLimaS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danieldelimas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldelimas&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danieldelimas&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldelimas&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Daniel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
