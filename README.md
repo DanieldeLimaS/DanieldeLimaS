@@ -55,8 +55,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DanieldeLimaS/danieldelimas/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danieldelimas&bg_color=0d1117&color=c9d1d9&line=178600&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
