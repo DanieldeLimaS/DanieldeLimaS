@@ -1,7 +1,8 @@
 ## <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2351F77F&size=43&width=800&height=100&lines=Ol%C3%A1%2C+sou+desenvolvedor+.NET%F0%9F%91%8B)](https://git.io/typing-svg)</div>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danieldelimas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danieldelimas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=danieldelimas&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danieldelimas&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blueberry&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -56,6 +57,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/danieldelimas/danieldelimas/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DanieldeLimaS/danieldelimas/output/snake.svg" alt="Snake animation" />
 
 ###
