@@ -1,8 +1,9 @@
 ## <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2351F77F&size=43&width=800&height=100&lines=Ol%C3%A1%2C+sou+desenvolvedor+.NET%F0%9F%91%8B)](https://git.io/typing-svg)</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danieldelimas&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danieldelimas&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blueberry&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=danieldelimas&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danieldelimas&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danieldelimas&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_border=false" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -51,10 +52,4 @@
   <a href="https://www.linkedin.com/in/daniellimals/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danieldelimas&bg_color=0d1117&color=c9d1d9&line=178600&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
